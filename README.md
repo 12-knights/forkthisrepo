@@ -18,3 +18,5 @@ timof121: fork 6
 Unix is bloat
 
 Linux on top :muscle:
+
+dude linux is unix
