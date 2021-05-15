@@ -19,4 +19,4 @@ Unix is bloat
 
 Linux on top :muscle:
 
-dude linux is unix
+dude linux is unix (also linux > windows)
