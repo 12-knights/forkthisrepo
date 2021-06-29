@@ -20,4 +20,4 @@ Unix is bloat
 Linux on top :muscle:
 
 dude linux is unix (also linux > windows)
-![hentai](https://github.com/KorewaLidesu/forkthisrepo/blob/master/SPOILER_ezgif.com-gif-maker_4.gif)
+![hentai](https://github.com/KorewaLidesu/forkthisrepo/blob/main/SPOILER_ezgif.com-gif-maker_4.gif)
